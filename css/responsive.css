@@ -1,0 +1,205 @@
+@media only screen and (max-width: 768px) {
+    .footer-box ul a span {
+        font-size: 22px;
+    }
+    .letter-search {
+        width: 70%;
+    }
+    .head-search {
+        flex: 0 0 39%;
+    }
+    .head-usd {
+        flex: 0 0 30%;
+        padding: 0px 10px;
+    }
+    .head-icon {
+        flex: 0 0 31%;
+        justify-content: space-between;
+        padding: 0px 10px;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light {
+        padding: 5px 0px;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgb(255 255 255);
+        border-color: rgb(228 228 228);
+        background: #f0f2f5;
+    }
+    li.desktop-menu {
+        display: none;
+    }
+    ul.navbar-nav {
+        align-items: flex-start;
+        background: #f0f2f5;
+        margin: 5px 0px;
+        border-color: rgb(228 228 228);
+    }
+    .email-head {
+        display: none;
+    }
+    li.nav-item {
+        width: 100%;
+        display: block;
+        border-bottom: 1px solid;
+        border-color: rgb(228 228 228);
+    }
+    .head-img-text {
+        height: 320px;
+        width: 75%;
+    }
+    .head-img-text h1 {
+        font-size: 35px;
+    }
+    .head-btn {
+        height: 50px;
+        line-height: 50px;
+    }
+    .main-btn {
+        height: 45px;
+        line-height: 45px;
+    }
+    .process h3 {
+        width: 100%;
+        font-size: 22px;
+    }
+    .process .main-btn {
+        margin-top: 20px;
+        width: 120px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .main-heading span {
+        color: #103178;
+        font-size: 35px;
+        font-weight: 600;
+        position: relative;
+        display: inline-block;
+        padding-bottom: 10px;
+    }
+    .main-card figure img {
+        width: 100%;
+        height: auto;
+    }
+    .main-card {
+        padding: 10px;
+    }
+    .main-card h3 a {
+        font-size: 16px;
+    }
+    .main-card p {
+        font-size: 14px;
+    }
+    .main-card figure {
+        margin: 10px 0px;
+    }
+    .Secure-left p {
+        font-size: 20px;
+    }
+    .content-txt h3 {
+        font-size: 20px;
+    }
+    .main-card-intro{
+        padding: 0px 10px 10px;
+        margin-top:0px;
+    }
+    .main-card h3 {
+        float: left;
+        width: 100%;
+        line-height: 20px;
+        margin-bottom: 0px;
+    }
+    .main-card-intro .main-btn {
+        height: 35px;
+        line-height: 35px;
+        margin-top: 10px;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    img.copy-rht-img {
+        width: 100%;
+    }
+    .copy-right {
+        display: grid;
+    }
+    .footer-card p {
+        padding: 10px 0px;
+        text-align: left;
+    }
+    .footer-box {
+        margin: 20px 0px;
+    }
+    .copy-rht {
+        text-align: center;
+    }
+    .bg-letter {
+        padding: 20px 0px; 
+    }
+    .new-letter h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .letter-search {
+        width: 100% !important;
+    }
+    .section {
+        padding: 20px 0px;
+    }
+    .Secure-delivery {
+        display: grid;
+        
+    }
+    .Secure-left p {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .Secure-right {
+        margin: auto;
+    }
+    .main-card figure img {
+        object-fit: cover;
+    }
+    .main-card {
+        text-align: center;
+    }
+    .process .main-btn {
+        margin-top: 82px;
+    }
+    .head-search {
+        display: none;
+    }
+    .head-usd {
+        display: none;
+    }
+    .head-icon {
+        flex: 0 0 100% !important;
+    }
+    .head-img-text {
+        width: 100% !important;
+    }
+    .main-card h3 a {
+        font-size: 22px !important;
+    }
+    .main-card p {
+        font-size: 20px !important;
+    }
+    .process {
+        margin: 30px 0px 0px;
+    }
+    .main-card h3 {
+        line-height: 30px !important;
+    }
+    .pro-img-main {
+        display: grid;
+        
+    }
+    figure.pro-img{
+        margin-right: 0px;
+    }
+    .descri-page .nav-item {
+        padding: 0px;
+        margin-right: 25px !important;
+        width: 40% !important;
+        float: left;
+    }
+  }
